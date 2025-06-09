@@ -9,7 +9,7 @@ This project generates 500 emails, both good and spam, and creates a folder for 
 - `spam_detector.py`: Classifies emails and extracts URLs.
 - `email_analysis.csv`: Output with email data and predictions.
 - `requirements.txt`: Dependencies.
-- `emails/`: Contains generated emails (not included in submission due to size).
+- `emails/`: Contains generated emails.
 
 ## Setup
 1. Install dependencies: `pip install -r requirements.txt`
