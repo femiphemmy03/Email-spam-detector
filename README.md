@@ -20,7 +20,7 @@ This project generates 500 emails, both good and spam, and creates a folder for 
 Achieved 100% accuracy on the test set.
 
 ## Notes
-- Emails were generated randomly due to insufficient data in the provided Google Drive.
+- Emails were generated randomly.
 - The spam detection model uses TF-IDF features and Naive Bayes.
 - The full emails/ folder is available upon request
 
