@@ -1,8 +1,8 @@
 # Email Spam Detector
-Internship assignment for Gateway English Learning Hub.
+An Internship Project.
 
 ## Overview
-This project generates 500 emails (250 genuine, 250 spam) and classifies them as spam or good using Python and Naive Bayes. It extracts URLs as a feature.
+This project generates 500 emails, both good and spam, and creates a folder for each category. It then detects whether each email is good or spam, extracts the URLs, and creates a CSV file containing their classifications using Python and Naive Bayes. It extracts URLs as a feature.
 
 ## Files
 - `generate_emails.py`: Generates 500 mock .eml files.
